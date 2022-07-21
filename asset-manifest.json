@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/BirthdayCard/static/css/main.6ea46794.css",
-    "main.js": "/BirthdayCard/static/js/main.73c13b24.js",
-    "static/media/border.png": "/BirthdayCard/static/media/border.ca3747fcedd25210a3e7.png",
-    "static/media/deco.png": "/BirthdayCard/static/media/deco.3765d2900781087c6118.png",
-    "static/media/letter.png": "/BirthdayCard/static/media/letter.398353d1659ce3f89e95.png",
-    "static/media/back2.png": "/BirthdayCard/static/media/back2.5ed5f8cea4ab50a9c916.png",
-    "static/media/card.png": "/BirthdayCard/static/media/card.4770def64f61a56f3800.png",
-    "index.html": "/BirthdayCard/index.html",
-    "main.6ea46794.css.map": "/BirthdayCard/static/css/main.6ea46794.css.map",
-    "main.73c13b24.js.map": "/BirthdayCard/static/js/main.73c13b24.js.map"
+    "main.css": "/static/css/main.cc904e9d.css",
+    "main.js": "/static/js/main.719147b3.js",
+    "static/media/border.png": "/static/media/border.ca3747fcedd25210a3e7.png",
+    "static/media/deco.png": "/static/media/deco.3765d2900781087c6118.png",
+    "static/media/letter.png": "/static/media/letter.398353d1659ce3f89e95.png",
+    "static/media/back2.png": "/static/media/back2.5ed5f8cea4ab50a9c916.png",
+    "static/media/card.png": "/static/media/card.4770def64f61a56f3800.png",
+    "index.html": "/index.html",
+    "main.cc904e9d.css.map": "/static/css/main.cc904e9d.css.map",
+    "main.719147b3.js.map": "/static/js/main.719147b3.js.map"
   },
   "entrypoints": [
-    "static/css/main.6ea46794.css",
-    "static/js/main.73c13b24.js"
+    "static/css/main.cc904e9d.css",
+    "static/js/main.719147b3.js"
   ]
 }
